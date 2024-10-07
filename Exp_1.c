@@ -65,6 +65,10 @@ void display(struct Stack* s) {
 }
 
 int main() {
+
+ // trying git and github tutorial
+    printf("Hello Git and Github Tutorial");
+
     struct Stack stack;
     createStack(&stack);
 
